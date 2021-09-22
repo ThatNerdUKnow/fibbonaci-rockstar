@@ -3,14 +3,14 @@ let my blade be " "
 cut the sky into pieces with my blade
 
 If pieces is 2
-cast pieces at 0 into one
-cast pieces at 1 into another
-say one 
-say another
+cast pieces at 0 into the fire
+cast pieces at 1 into the night
+say the fire
+say the night
 While right
-let temp be one
-let one be temp plus another
-say one
+let one be the fire
+let the fire be one with the night
+say the fire
 take it to the top
 
 Else
