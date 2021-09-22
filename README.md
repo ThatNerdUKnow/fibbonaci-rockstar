@@ -10,3 +10,7 @@ The program I wrote here takes 2 Integer arguments from standard input and gener
 
 ## Why did I make this?
 Because I saw that this language was a thing on reddit and I thought it was absolutely hilarious
+
+View the ~~Code~~ Song [Here](https://github.com/ThatNerdUKnow/fibbonaci-rockstar/blob/main/fibonacci.rock)
+
+
