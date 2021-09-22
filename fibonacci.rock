@@ -1,0 +1,17 @@
+listen to the sky
+let my blade be " "
+cut the sky into pieces with my blade
+
+If pieces is 2
+cast pieces at 0 into one
+cast pieces at 1 into another
+say one 
+say another
+While right
+let temp be one
+let one be temp plus another
+say one
+take it to the top
+
+Else
+say "I can't work with that"
